@@ -14,3 +14,5 @@ DAX Measures Implementation: Explore the implementation of Data Analysis Express
 Visualization with Navigation Bar: Build a user-friendly dashboard with a Navigation Bar for easy access to different sections, enhancing overall user experience.
 
 Bookmarks and Page Navigator Button: Implement bookmarks and a Page Navigator button for seamless navigation through the dashboard, providing a polished and interactive interface.
+
+LinkedIn Artical : https://www.linkedin.com/pulse/energy-consumptions-dashboard-abhishek-verma-vv4tf 
