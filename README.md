@@ -1,8 +1,10 @@
 # Energy-Consumptions-Dashboard
-Overview
+Overview 
+
 This GitHub repository provides a comprehensive guide and resources for creating an Energy Consumption Dashboard using Microsoft Power BI. The project covers step-by-step instructions for data transformation in Power Query, establishing relationships between fact and dimension tables, implementing DAX measures, and creating impactful visualizations. Additionally, it incorporates a Navigation Bar with bookmarks and a Page Navigator button for enhanced user experience.
 
-Key Features
+Key Features 
+
 Data Transformation in Power Query: Learn how to efficiently transform raw data using Power Query, ensuring it is ready for analysis and visualization.
 
 Relationships between Fact & Dimension Tables: Understand the process of creating meaningful relationships between different tables to enable effective data analysis.
